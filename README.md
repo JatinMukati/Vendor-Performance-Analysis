@@ -156,5 +156,6 @@ python scripts/get_vendor_summary.py
 
 ## Contact  
 👤 **Your Name**  
-📧 Email: [your.email@example.com]  
-🔗 [LinkedIn](#) | [Portfolio](#)  
+📧 Email: [jatinmukati44@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/jatinmukati/)
+🔗 [Portfolio](https://jatinmukati.vercel.app/)  
