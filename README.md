@@ -28,9 +28,10 @@ This project investigates **vendor efficiency and inventory movement** in retail
 ## Problem Statement  
 In retail, managing vendors and inventory directly impacts profitability.  
 The key questions addressed were:  
-- Which vendors consistently underperform?  
-- How much do vendors contribute to sales and profits?  
-- What are the cost structures and purchasing patterns?  
+- Identify underperforming brands needing pricing or promotional adjustments  
+- How much do vendors contribute to sales and profits?
+- Analyze the cost-benefit of bulk purchasing  
+- Investigate inventory turnover inefficiencies  
 - Are there significant differences in vendor profitability?  
 
 ---
