@@ -1,6 +1,6 @@
 # Vendor Performance & Retail Analytics – Inventory & Sales Insights  
 
-Analyzing vendor performance, sales dynamics, and inventory to guide data-driven procurement, pricing, and promotional strategies using SQL, Python, and Power BI.  
+Analyzing vendor performance, sales dynamics, and inventory to to support strategic purchasing and inventory decisions using SQL, Python, and Power BI.  
 
 ---
 
@@ -65,7 +65,7 @@ vendor-performance-analysis/
 │   └── vendor_performance_dashboard.pbix
 │── README.md
 ├── .gitignore
-├── Vendor Performance Report.pdf
+├── Vendor_Performance_Report.pdf
 ```
 
 ---
@@ -113,8 +113,8 @@ vendor-performance-analysis/
 Interactive **Power BI dashboard** with:  
 - Vendor sales & margins  
 - Inventory turnover  
-- Bulk vs retail purchase comparison  
-- Vendor profitability  
+- Bulk Purchase Savings
+- Performance Heatmaps 
 
 ![Vendor Performance Dashboard](images/dashboard.png)
 
@@ -139,7 +139,7 @@ python scripts/get_vendor_summary.py
 5. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/vendor_performance_analysis.ipynb`
-   - 
+
 6. Open Power BI Dashboard:
    - `dashboard/vendor_performance_dashboard.pbix`
  
@@ -147,14 +147,17 @@ python scripts/get_vendor_summary.py
 ---
 
 ## Recommendations  
-- Diversify vendor portfolio to reduce dependency.  
-- Negotiate better pricing from low-margin vendors.  
-- Clear non-moving inventory quickly.  
-- Focus marketing spend on profitable vendors.  
+- Diversify vendor base to reduce risk
+- Optimize bulk order strategies
+- Reprice slow-moving, high-margin brands
+- Clear unsold inventory strategically
+- Improve marketing for underperforming vendors  
 
 ---
 
 ## Contact  
-👤 **Your Name**  
-📧 Email: [your.email@example.com]  
-🔗 [LinkedIn](#) | [Portfolio](#)  
+👤 **Jatin Mukati**  
+Data Analyst  
+📧 Email: [jatinmukati44@gmail.com](mailto:jatinmukati44@gmai.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jatinmukati/)  
+🔗 [Portfolio](https://jatinmukati.vercel.app/)
