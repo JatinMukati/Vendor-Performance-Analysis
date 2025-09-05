@@ -116,8 +116,7 @@ Interactive **Power BI dashboard** with:
 - Bulk vs retail purchase comparison  
 - Vendor profitability  
 
-📊 Example:  
-<img width="1175" height="759" alt="dashboard" src="https://github.com/user-attachments/assets/ae2b42aa-0cce-46f6-ae80-0e32e0821698" />
+![Vendor Performance Dashboard](images/dashboard.png)
 
 ---
 
