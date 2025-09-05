@@ -139,7 +139,7 @@ python scripts/get_vendor_summary.py
 5. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/vendor_performance_analysis.ipynb`
-   - 
+
 6. Open Power BI Dashboard:
    - `dashboard/vendor_performance_dashboard.pbix`
  
