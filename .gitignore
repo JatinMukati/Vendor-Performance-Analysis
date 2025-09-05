@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.vscode/
+logs/
+data/
+_MACOSX\data
+.ipynb
+csv_load.sql
+vendor_sales_summary.csv
