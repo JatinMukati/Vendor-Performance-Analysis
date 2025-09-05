@@ -157,6 +157,6 @@ python scripts/get_vendor_summary.py
 ## Contact  
 👤 **Jatin Mukati**  
 Data Analyst  
-📧 Email: [jatinmukati44@gmail.com](jatinmukati44@gmai.com)  
+📧 Email: [jatinmukati44@gmail.com](mailto:jatinmukati44@gmai.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jatinmukati/)  
 🔗 [Portfolio](https://jatinmukati.vercel.app/)
