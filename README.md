@@ -117,8 +117,7 @@ Interactive **Power BI dashboard** with:
 - Vendor profitability  
 
 📊 Example:  
-![Dashboard Preview](dashboard.png)
-
+<img width="1175" height="759" alt="dashboard" src="https://github.com/user-attachments/assets/ae2b42aa-0cce-46f6-ae80-0e32e0821698" />
 
 ---
 
