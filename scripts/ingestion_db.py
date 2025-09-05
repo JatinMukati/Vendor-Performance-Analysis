@@ -11,7 +11,7 @@ logging.basicConfig(
     filemode="a"
     )
 
-engine= create_engine ('postgresql://postgres:1234@localhost:5432/vendors_project')
+engine= create_engine ('postgresql://username:password@localhost:5432/vendors_project')
 
 def load_raw_data():
     '''this fuction will load the CSVs as dataframe and ingest into db'''

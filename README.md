@@ -116,33 +116,33 @@ Interactive **Power BI dashboard** with:
 - Bulk vs retail purchase comparison  
 - Vendor profitability  
 
-📊 Example:  
-![Dashboard Preview](dashboard.png)  
+![Vendor Performance Dashboard](images/dashboard.png)
 
 ---
 
 ## How to Run the Project  
-1. Clone the repo:  
-   ```bash
-   git clone <your_repo_link>
-   ```  
+1. Clone the repository:
+```bash
+git clone https://github.com/JatinMukati/vendor-performance-analysis.git
+```
 
-2. Load CSVs into the database:  
-   ```bash
-   python scripts/ingestion.py
-   ```  
+3. Load the CSVs and ingest into database:
+```bash
+python scripts/ingestion_db.py
+```
 
-3. Generate vendor summary:  
-   ```bash
-   python scripts/vendor_summary.py
-   ```  
+4. Create vendor summary table:
+```bash
+python scripts/get_vendor_summary.py
+```
 
-4. Open notebooks for analysis:  
-   ```bash
-   jupyter notebook notebooks/vendor_analysis.ipynb
-   ```  
-
-5. View the Power BI dashboard in `/dashboards`.  
+5. Open and run notebooks:
+   - `notebooks/exploratory_data_analysis.ipynb`
+   - `notebooks/vendor_performance_analysis.ipynb`
+   - 
+6. Open Power BI Dashboard:
+   - `dashboard/vendor_performance_dashboard.pbix`
+ 
 
 ---
 

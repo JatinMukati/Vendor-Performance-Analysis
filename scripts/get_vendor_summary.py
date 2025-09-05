@@ -94,7 +94,7 @@ def ingest_db(df, table_name, engine):
 
 if __name__ == '__main__':
     # creating database connection
-    engine= create_engine ('postgresql://postgres:1234@localhost:5432/vendors_project')
+    engine= create_engine ('postgresql://username:password@localhost:5432/vendors_project')
 
     logging.info('Creating Vendor Summary Table....')
     summary_df = create_vendor_summary(engine)
